@@ -1,0 +1,77 @@
+
+    body {
+      background-color: #f8f9fa;
+      font-family: 'Inter', sans-serif;
+    }
+
+    .card {
+      border: none;
+      border-radius: 1rem;
+    }
+
+    .card-body {
+      padding: 2rem;
+    }
+
+    .card-header-title {
+      background-color: #002d62;
+      color: white;
+      font-weight: 700;
+      font-size: 1.75rem;
+      letter-spacing: 0.5px;
+      padding: 1rem;
+      border-top-left-radius: 1rem;
+      border-top-right-radius: 1rem;
+      text-align: center;
+    }
+
+    .form-label {
+      font-weight: 600;
+      color: #333;
+    }
+
+    .form-control {
+      padding: 10px 12px;
+      font-size: 1rem;
+      border-radius: 8px;
+    }
+
+    .btn-primary {
+      background-color: #002d62 !important;
+      border-color: #002d62 !important;
+      font-weight: 600;
+      font-size: 1.1rem;
+      border-radius: 8px;
+    }
+
+    .btn-primary:hover {
+      background-color: #001a3f !important;
+    }
+
+    .google-btn {
+      background-color: #fff;
+      border: 1px solid #ddd;
+      color: #444;
+      font-weight: 500;
+      padding: 10px;
+      font-size: 1rem;
+      border-radius: 8px;
+      transition: all 0.2s ease-in-out;
+    }
+
+    .google-btn:hover {
+      background-color: #f1f1f1;
+      border-color: #ccc;
+    }
+
+    .google-icon {
+      vertical-align: middle;
+      margin-right: 10px;
+      width: 20px;
+      height: 20px;
+    }
+
+    .text-muted {
+      font-size: 0.95rem;
+      color: #888 !important;
+    }
